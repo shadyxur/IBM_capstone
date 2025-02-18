@@ -1,0 +1,1 @@
+This project is the capstone for IBM's Data Analysis course. Data analysis results are presented here along with Python code that was used to process the data. Because I found Jupyter notebook too complicated, I did not use it. Due to a lack of free computation time in the IBM Cloud instance provided by the course, I ran all the code locally on my machine.
